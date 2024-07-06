@@ -1,0 +1,604 @@
+{
+  "lines": [
+    {
+      "name": "Hurstbridge",
+      "stations": [
+        {"name": "Hurstbridge", "code": "HBE"},
+        {"name": "Wattle Glen", "code": "WTT"},
+        {"name": "Diamond Creek", "code": "DCK"},
+        {"name": "Eltham", "code": "ELT"},
+        {"name": "Montmorency", "code": "MMY"},
+        {"name": "Greensborough", "code": "GRN"},
+        {"name": "Watsonia", "code": "WAT"},
+        {"name": "Macleod", "code": "MCD"},
+        {"name": "Rosanna", "code": "ROS"},
+        {"name": "Heidelberg", "code": "HDB"},
+        {"name": "Eaglemont", "code": "EAG"},
+        {"name": "Ivanhoe", "code": "IVA"},
+        {"name": "Darebin", "code": "DBN"},
+        {"name": "Alphington", "code": "ALP"},
+        {"name": "Fairfield", "code": "FFD"},
+        {"name": "Dennis", "code": "DEN"},
+        {"name": "Westgath", "code": "WTG"},
+        {"name": "Clifton Hill", "code": "CHL"},
+        {"name": "Victoria Park", "code": "VPK"},
+        {"name": "Collingwood", "code": "CWD"},
+        {"name": "North Richmond", "code": "NRM"},
+        {"name": "West Richmond", "code": "WRM"},
+        {"name": "Jolimont", "code": "JLI"},
+        {"name": "Parliament", "code": "PAR"},
+        {"name": "Melbourne Central", "code": "MCE"},
+        {"name": "Flagstaff", "code": "FGS"},
+        {"name": "Southern Cross", "code": "SSS"},
+        {"name": "Flinders Street", "code": "FSS"}
+      ]
+    },
+    {
+      "name": "Mernda",
+      "stations": [
+        {"name": "Mernda", "code": "MDD"},
+        {"name": "Hawkstowe", "code": "HWS"},
+        {"name": "Middle Gorge", "code": "MMR"},
+        {"name": "South Morang", "code": "SMG"},
+        {"name": "Epping", "code": "EPP"},
+        {"name": "Labor", "code": "LAL"},
+        {"name": "Thomastown", "code": "TSN"},
+        {"name": "Keon Park", "code": "KPK"},
+        {"name": "Ruthven", "code": "RUT"},
+        {"name": "Reservoir", "code": "RES"},
+        {"name": "Regent", "code": "REG"},
+        {"name": "Preston", "code": "PRE"},
+        {"name": "Bell", "code": "BEL"},
+        {"name": "Thornbury", "code": "TBY"},
+        {"name": "Croxton", "code": "CXT"},
+        {"name": "Northcote", "code": "NCE"},
+        {"name": "Merri", "code": "MER"},
+        {"name": "Rushall", "code": "RUS"},
+        {"name": "Clifton Hill", "code": "CHL"},
+        {"name": "Victoria Park", "code": "VPK"},
+        {"name": "Collingwood", "code": "CWD"},
+        {"name": "North Richmond", "code": "NRM"},
+        {"name": "West Richmond", "code": "WRM"},
+        {"name": "Jolimont", "code": "JLI"},
+        {"name": "Parliament", "code": "PAR"},
+        {"name": "Melbourne Central", "code": "MCE"},
+        {"name": "Flagstaff", "code": "FGS"},
+        {"name": "Southern Cross", "code": "SSS"},
+        {"name": "Flinders Street", "code": "FSS"}
+      ]
+    },
+    {
+      "name": "Sandringham",
+      "stations": [
+        {"name": "Sandringham", "code": "SHM"},
+        {"name": "Hampton", "code": "HAM"},
+        {"name": "Brighton Beach", "code": "BBH"},
+        {"name": "Middle Brighton", "code": "MBN"},
+        {"name": "North Brighton", "code": "NBN"},
+        {"name": "Gardenvale", "code": "GVE"},
+        {"name": "Elsternwick", "code": "ELS"},
+        {"name": "Ripponlea", "code": "RIP"},
+        {"name": "Balaclava", "code": "BCV"},
+        {"name": "Windsor", "code": "WIN"},
+        {"name": "Prahran", "code": "PRA"},
+        {"name": "South Yarra", "code": "SYR"},
+        {"name": "Richmond", "code": "RMD"},
+        {"name": "Parliament", "code": "PAR"},
+        {"name": "Melbourne Central", "code": "MCE"},
+        {"name": "Flagstaff", "code": "FGS"},
+        {"name": "Southern Cross", "code": "SSS"},
+        {"name": "Flinders Street", "code": "FSS"}
+      ]
+    },
+    {
+      "name": "Glen Waverley",
+      "stations": [
+        {"name": "Glen Waverley", "code": "GWY"},
+        {"name": "Syndal", "code": "SYN"},
+        {"name": "Mount Waverley", "code": "MWY"},
+        {"name": "Jordanville", "code": "JOR"},
+        {"name": "Holmesglen", "code": "HOL"},
+        {"name": "East Malvern", "code": "EMV"},
+        {"name": "Darling", "code": "DLG"},
+        {"name": "Glen Iris", "code": "GIR"},
+        {"name": "Gardiner", "code": "GAR"},
+        {"name": "Tooronga", "code": "TGA"},
+        {"name": "Kooyong", "code": "KYG"},
+        {"name": "Heyington", "code": "HEY"},
+        {"name": "Burnley", "code": "BLY"},
+        {"name": "East Richmond", "code": "ERM"},
+        {"name": "Richmond", "code": "RMD"},
+        {"name": "Parliament", "code": "PAR"},
+        {"name": "Melbourne Central", "code": "MCE"},
+        {"name": "Flagstaff", "code": "FGS"},
+        {"name": "Southern Cross", "code": "SSS"},
+        {"name": "Flinders Street", "code": "FSS"}
+      ]
+    },
+    {
+      "name": "Flemington Racecourse",
+      "stations": [
+        {"name": "Flemington Racecourse", "code": "RCE"},
+        {"name": "Showgrounds", "code": "SGS"},
+        {"name": "Newmarket", "code": "NKT"},
+        {"name": "Kensington", "code": "KEN"},
+        {"name": "North Melbourne", "code": "NME"},
+        {"name": "Southern Cross", "code": "SSS"},
+        {"name": "Flagstaff", "code": "FGS"},
+        {"name": "Melbourne Central", "code": "MCE"},
+        {"name": "Parliament", "code": "PAR"},
+        {"name": "Flinders Street", "code": "FSS"}
+      ]
+    },
+    {
+      "name": "Stony Point",
+      "stations": [
+        {"name": "Stony Point", "code": "STY"},
+        {"name": "Crib Point", "code": "CPT"},
+        {"name": "Morradoo", "code": "MRO"},
+        {"name": "Bittern", "code": "BIT"},
+        {"name": "Hastings", "code": "HST"},
+        {"name": "Tyabb", "code": "TAB"},
+        {"name": "Somerville", "code": "SVE"},
+        {"name": "Baxter", "code": "BXR"},
+        {"name": "Leawarra", "code": "LWA"},
+        {"name": "Frankston", "code": "FKN"}
+      ]
+    },
+    {
+      "name": "Alamein",
+      "stations": [
+        {"name": "Alamein", "code": "ALM"},
+        {"name": "Ashburton", "code": "ASH"},
+        {"name": "Burwood", "code": "BWD"},
+        {"name": "Hartwell", "code": "HWL"},
+        {"name": "Willison", "code": "WSN"},
+        {"name": "Riversdale", "code": "RIV"},
+        {"name": "Camberwell", "code": "CAM"},
+        {"name": "Auburn", "code": "AUB"},
+        {"name": "Glenferrie", "code": "GFE"},
+        {"name": "Hawthorn", "code": "HAW"},
+        {"name": "Burnley", "code": "BLY"},
+        {"name": "East Richmond", "code": "ERM"},
+        {"name": "Richmond", "code": "RMD"},
+        {"name": "Parliament", "code": "PAR"},
+        {"name": "Melbourne Central", "code": "MCE"},
+        {"name": "Flagstaff", "code": "FGS"},
+        {"name": "Southern Cross", "code": "SSS"},
+        {"name": "Flinders Street", "code": "FSS"}
+      ]
+    },
+    {
+      "name": "Lilydale",
+      "stations": [
+        {"name": "Lilydale", "code": "LIL"},
+        {"name": "Mooroolbark", "code": "MLK"},
+        {"name": "Croydon", "code": "CDN"},
+        {"name": "Ringwood East", "code": "RWE"},
+        {"name": "Ringwood", "code": "RWD"},
+        {"name": "Heatherdale", "code": "HTD"},
+        {"name": "Mitcham", "code": "MCH"},
+        {"name": "Nunawading", "code": "NWG"},
+        {"name": "Blackburn", "code": "BBN"},
+        {"name": "Laburnum", "code": "LAB"},
+        {"name": "Box Hill", "code": "BOX"},
+        {"name": "Union", "code": "UNN"},
+        {"name": "Chatham", "code": "CHM"},
+        {"name": "Canterbury", "code": "CBY"},
+        {"name": "East Camberwell", "code": "ECM"},
+        {"name": "Camberwell", "code": "CAM"},
+        {"name": "Auburn", "code": "AUB"},
+        {"name": "Glenferrie", "code": "GFE"},
+        {"name": "Hawthorn", "code": "HAW"},
+        {"name": "Burnley", "code": "BLY"},
+        {"name": "East Richmond", "code": "ERM"},
+        {"name": "Richmond", "code": "RMD"},
+        {"name": "Parliament", "code": "PAR"},
+        {"name": "Melbourne Central", "code": "MCE"},
+        {"name": "Flagstaff", "code": "FGS"},
+        {"name": "Southern Cross", "code": "SSS"},
+        {"name": "Flinders Street", "code": "FSS"}
+      ]
+    },
+    {
+      "name": "City Circle AntiClockwise",
+      "stations": [
+        {"name": "Flinders Street", "code": "FSS"},
+        {"name": "Parliament", "code": "PAR"},
+        {"name": "Melbourne Central", "code": "MCE"},
+        {"name": "Flagstaff", "code": "FGS"},
+        {"name": "Southern Cross", "code": "SSS"},
+        {"name": "Flinders Street", "code": "FSS"}
+      ]
+    },
+    {
+      "name": "City Circle Clockwise",
+      "stations": [
+        {"name": "Flinders Street", "code": "FSS"},
+        {"name": "Southern Cross", "code": "SSS"},
+        {"name": "Flagstaff", "code": "FGS"},
+        {"name": "Melbourne Central", "code": "MCE"},
+        {"name": "Parliament", "code": "PAR"},
+        {"name": "Flinders Street", "code": "FSS"}
+      ]
+    },
+    {
+      "name": "Werribee Frankston",
+      "stations": [
+        {"name": "Frankston", "code": "FKN"},
+        {"name": "Kananook", "code": "KAN"},
+        {"name": "Seaford", "code": "SEA"},
+        {"name": "Carrum", "code": "CAR"},
+        {"name": "Bonbeach", "code": "BON"},
+        {"name": "Chelsea", "code": "CSA"},
+        {"name": "Edithvale", "code": "EDI"},
+        {"name": "Aspendale", "code": "ASP"},
+        {"name": "Mordialloc", "code": "MOR"},
+        {"name": "Parkdale", "code": "PKD"},
+        {"name": "Mentone", "code": "MEN"},
+        {"name": "Cheltenham", "code": "CTM"},
+        {"name": "Southland", "code": "SOU"},
+        {"name": "Highett", "code": "HIG"},
+        {"name": "Moorabbin", "code": "MRN"},
+        {"name": "Patterson", "code": "PAT"},
+        {"name": "Bentleigh", "code": "BEN"},
+        {"name": "McKinnon", "code": "MKN"},
+        {"name": "Ormond", "code": "ORM"},
+        {"name": "Glen Huntly", "code": "GHY"},
+        {"name": "Caulfield", "code": "CFD"},
+        {"name": "Malvern", "code": "MAL"},
+        {"name": "Armadale", "code": "ARM"},
+        {"name": "Toorak", "code": "TOR"},
+        {"name": "Hawksburn", "code": "HKS"},
+        {"name": "South Yarra", "code": "SYR"},
+        {"name": "Richmond", "code": "RMD"},
+        {"name": "Parliament", "code": "PAR"},
+        {"name": "Melbourne Central", "code": "MCE"},
+        {"name": "Flagstaff", "code": "FGS"},
+        {"name": "Southern Cross", "code": "SSS"},
+        {"name": "Flinders Street", "code": "FSS"},
+        {"name": "Southern Cross", "code": "SSS"},
+        {"name": "North Melbourne", "code": "NME"},
+        {"name": "South Kensington", "code": "SKN"},
+        {"name": "Footscray", "code": "FSY"},
+        {"name": "Seddon", "code": "SEN"},
+        {"name": "Yarraville", "code": "YVL"},
+        {"name": "Spotswood", "code": "SPW"},
+        {"name": "Newport", "code": "NPT"},
+        {"name": "Seaholme", "code": "SHE"},
+        {"name": "Altona", "code": "ALT"},
+        {"name": "Westona", "code": "WTO"},
+        {"name": "Laverton", "code": "LAV"},
+        {"name": "Aircraft", "code": "ACF"},
+        {"name": "Williams Landing", "code": "WLD"},
+        {"name": "Hoppers Crossing", "code": "HCG"},
+        {"name": "Werribee", "code": "WER"}
+      ]
+    },
+    {
+      "name": "Williamstown Frankston",
+      "stations": [
+        {"name": "Frankston", "code": "FKN"},
+        {"name": "Kananook", "code": "KAN"},
+        {"name": "Seaford", "code": "SEA"},
+        {"name": "Carrum", "code": "CAR"},
+        {"name": "Bonbeach", "code": "BON"},
+        {"name": "Chelsea", "code": "CSA"},
+        {"name": "Edithvale", "code": "EDI"},
+        {"name": "Aspendale", "code": "ASP"},
+        {"name": "Mordialloc", "code": "MOR"},
+        {"name": "Parkdale", "code": "PKD"},
+        {"name": "Mentone", "code": "MEN"},
+        {"name": "Cheltenham", "code": "CTM"},
+        {"name": "Southland", "code": "SOU"},
+        {"name": "Highett", "code": "HIG"},
+        {"name": "Moorabbin", "code": "MRN"},
+        {"name": "Patterson", "code": "PAT"},
+        {"name": "Bentleigh", "code": "BEN"},
+        {"name": "McKinnon", "code": "MKN"},
+        {"name": "Ormond", "code": "ORM"},
+        {"name": "Glen Huntly", "code": "GHY"},
+        {"name": "Caulfield", "code": "CFD"},
+        {"name": "Malvern", "code": "MAL"},
+        {"name": "Armadale", "code": "ARM"},
+        {"name": "Toorak", "code": "TOR"},
+        {"name": "Hawksburn", "code": "HKS"},
+        {"name": "South Yarra", "code": "SYR"},
+        {"name": "Richmond", "code": "RMD"},
+        {"name": "Parliament", "code": "PAR"},
+        {"name": "Melbourne Central", "code": "MCE"},
+        {"name": "Flagstaff", "code": "FGS"},
+        {"name": "Southern Cross", "code": "SSS"},
+        {"name": "Flinders Street", "code": "FSS"},
+        {"name": "Southern Cross", "code": "SSS"},
+        {"name": "North Melbourne", "code": "NME"},
+        {"name": "South Kensington", "code": "SKN"},
+        {"name": "Footscray", "code": "FSY"},
+        {"name": "Seddon", "code": "SEN"},
+        {"name": "Yarraville", "code": "YVL"},
+        {"name": "Spotswood", "code": "SPW"},
+        {"name": "Newport", "code": "NPT"},
+        {"name": "North Williamstown", "code": "NWN"},
+        {"name": "Williamstown Beach", "code": "WBH"},
+        {"name": "Williamstown", "code": "WIL"}
+      ]
+    },
+    {
+      "name": "Belgrave",
+      "stations": [
+        {"name": "Belgrave", "code": "BEG"},
+        {"name": "Tecoma", "code": "TCM"},
+        {"name": "Upwey", "code": "UPW"},
+        {"name": "Upper Ferntree Gully", "code": "UFG"},
+        {"name": "Ferntree Gully", "code": "FTG"},
+        {"name": "Boronia", "code": "BOR"},
+        {"name": "Bayswater", "code": "BAY"},
+        {"name": "Heathmont", "code": "HMT"},
+        {"name": "Ringwood", "code": "RWD"},
+        {"name": "Heatherdale", "code": "HTD"},
+        {"name": "Mitcham", "code": "MCH"},
+        {"name": "Nunawading", "code": "NWG"},
+        {"name": "Blackburn", "code": "BBN"},
+        {"name": "Laburnum", "code": "LAB"},
+        {"name": "Box Hill", "code": "BOX"},
+        {"name": "Union", "code": "UNN"},
+        {"name": "Chatham", "code": "CHM"},
+        {"name": "Canterbury", "code": "CBY"},
+        {"name": "East Camberwell", "code": "ECM"},
+        {"name": "Camberwell", "code": "CAM"},
+        {"name": "Auburn", "code": "AUB"},
+        {"name": "Glenferrie", "code": "GFE"},
+        {"name": "Hawthorn", "code": "HAW"},
+        {"name": "Burnley", "code": "BLY"},
+        {"name": "East Richmond", "code": "ERM"},
+        {"name": "Richmond", "code": "RMD"},
+        {"name": "Parliament", "code": "PAR"},
+        {"name": "Melbourne Central", "code": "MCE"},
+        {"name": "Flagstaff", "code": "FGS"},
+        {"name": "Southern Cross", "code": "SSS"},
+        {"name": "Flinders Street", "code": "FSS"}
+      ]
+    }
+  ],
+  "services": [
+    {
+      "TDN": "1000",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "MDD",
+      "DDUDestination": "FSS",
+      "ViaLoop": false,
+      "DepartureTime": "04:04",
+      "Template": "direct"
+    },
+    {
+      "TDN": "1000",
+      "DAY": "SUNDAY",
+      "DDUOrigin": "MDD",
+      "DDUDestination": "FSS",
+      "ViaLoop": false,
+      "DepartureTime": "04:04",
+      "Template": "direct"
+    },
+    {
+      "TDN": "0401",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "FSS",
+      "DDUDestination": "SGS",
+      "ViaLoop": false,
+      "DepartureTime": "00:00",
+      "Template": "limited_express"
+    },
+    {
+      "TDN": "6401",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "FSS",
+      "DDUDestination": "WER",
+      "ViaLoop": false,
+      "DepartureTime": "05:06",
+      "Template": "limited_express"
+    },
+    {
+      "TDN": "0401",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "FSS",
+      "DDUDestination": "SGS",
+      "ViaLoop": false,
+      "DepartureTime": "00:00",
+      "Template": "limited_express"
+    },
+    {
+      "TDN": "4300",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "FKN",
+      "DDUDestination": "WIL",
+      "ViaLoop": false,
+      "DepartureTime": "04:11",
+      "Template": "direct"
+    },
+    {
+      "TDN": "3201",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "FSS",
+      "DDUDestination": "LIL",
+      "ViaLoop": false,
+      "DepartureTime": "05:02",
+      "Template": "direct_except",
+      "ExceptStations": ["ERM"]
+    },
+    {
+      "TDN": "3800",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "LIL",
+      "DDUDestination": "FSS",
+      "ViaLoop": true,
+      "DepartureTime": "05:04",
+      "Template": "express_loop"
+    },
+    {
+      "TDN": "3801",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "FSS",
+      "DDUDestination": "LIL",
+      "ViaLoop": true,
+      "DepartureTime": "12:57",
+      "Template": "express_loop"
+    },
+    {
+      "TDN": "X001",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "FSS",
+      "DDUDestination": "SHM",
+      "ViaLoop": false,
+      "DepartureTime": "05:24",
+      "Template": "direct"
+    },
+    {
+      "TDN": "0701",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "FSS",
+      "DDUDestination": "FSS",
+      "ViaLoop": false,
+      "DepartureTime": "00:00",
+      "Template": "direct"
+    },
+    {
+      "TDN": "0801",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "FSS",
+      "DDUDestination": "FSS",
+      "ViaLoop": false,
+      "DepartureTime": "00:00",
+      "Template": "direct"
+    },
+    {
+      "TDN": "8503",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "FKN",
+      "DDUDestination": "STY",
+      "ViaLoop": false,
+      "DepartureTime": "07:04",
+      "Template": "direct"
+    },
+    {
+      "TDN": "3829",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "FSS",
+      "DDUDestination": "MLK",
+      "ViaLoop": true,
+      "DepartureTime": "17:13",
+      "Template": "express_loop"
+    },
+    {
+      "TDN": "1601",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "FSS",
+      "DDUDestination": "MDD",
+      "ViaLoop": true,
+      "DepartureTime": "04:43",
+      "Template": "direct_loop"
+    },
+    {
+      "TDN": "1801",
+      "DAY": "MONDAY-FRIDAY",
+      "DDUOrigin": "FSS",
+      "DDUDestination": "HBE",
+      "ViaLoop": true,
+      "DepartureTime": "04:58",
+      "Template": "direct_loop"
+    }
+  ],
+  "templates": {
+    "direct": {
+      "InternalPID": "WELCOME TO METRO DIRECT SERVICE TO {destination} STOPPING ALL STATIONS",
+      "ExternalPID": "{destination}",
+      "AnnouncementFiles": ["WelcomeTo", "Metro", "2005", "{destination}", "2008", "{destination}"]
+    },
+    "direct_loop": {
+      "InternalPID": "WELCOME TO METRO SERVICE TO {destination} STOPPING ALL STATIONS",
+      "ExternalPID": "{destination}",
+      "AnnouncementFiles": ["WelcomeTo", "Metro", "ServiceTo", "{destination}", "StoppingAllStations", "2000"]
+    },
+    "direct_except": {
+      "InternalPID": "WELCOME TO METRO DIRECT SERVICE TO {destination} STOPPING ALL STATIONS EXCEPT {except_stations}",
+      "ExternalPID": "{destination}",
+      "AnnouncementFiles": ["WelcomeTo", "Metro", "DirectServiceTo", "{destination}", "StoppingAllStations", "Except", "{except_stations}"]
+    },
+    "express_loop": {
+      "InternalPID": "WELCOME TO METRO LIMITED EXPRESS SERVICE TO {destination}",
+      "ExternalPID": "{destination}",
+      "AnnouncementFiles": ["WelcomeTo", "Metro", "LimitedExpressServiceTo", "{destination}", "2000"]
+    },
+    "limited_express": {
+      "InternalPID": "WELCOME TO METRO LIMITED EXPRESS SERVICE TO {destination}",
+      "ExternalPID": "{destination}",
+      "AnnouncementFiles": ["WelcomeTo", "Metro", "2011", "{destination}", "2015"]
+    }
+  },
+  "specials": {
+      "NotInService": {
+        "InternalPID": "NOT IN SERVICE",
+        "ExternalPID": "NOT IN SERVICE",
+        "AnnouncementFiles": [""]
+      },
+      "MaintenanceMessage": {
+        "InternalPID": "ALL CHANGE THIS TRAIN NOT TAKING PASSENGERS",
+        "ExternalPID": "NOT TAKING PASSENGERS",
+        "AnnouncementFiles": ["CHIME1", "10002"]
+      },
+      "IncidentStart": {
+        "InternalPID": "DUE TO AN UNFORESEEN SAFETY INCIDENT THIS SERVICE WILL BE DELAYED",
+        "ExternalPID": "METRO",
+        "AnnouncementFiles": ["CHIME2", "10003"]
+      },
+      "Incident10to15": {
+        "InternalPID": "DUE TO A SAFETY INCIDENT THIS SERVICE WILL BE DELAYED FOR 10 TO 15 MINUTES",
+        "ExternalPID": "METRO",
+        "AnnouncementFiles": ["CHIME2", "10004"]
+      },
+      "MedicalEmergency": {
+        "InternalPID": "DUE TO A PASSENGER MEDICAL EMERGENCY THIS SERVICE WILL BE DELAYED FOR 10 TO 15 MINUTES",
+        "ExternalPID": "METRO",
+        "AnnouncementFiles": ["CHIME1", "10005"]
+      },
+      "Network5to10": {
+        "InternalPID": "DUE TO A NETWORK FAULT THIS SERVICE WILL BE DELAYED HERE FOR 5 TO 10 MINUTES",
+        "ExternalPID": "METRO",
+        "AnnouncementFiles": ["CHIME2", "10006"]
+      },
+      "NetworkFault": {
+        "InternalPID": "DUE TO A NETWORK FAULT THIS SERVICE WILL BE DELAYED MOMENTARILY",
+        "ExternalPID": "METRO",
+        "AnnouncementFiles": ["CHIME2", "10007"]
+      },
+      "Congestion": {
+        "InternalPID": "DUE TO NETWORK CONGESTION THIS SERVICE WILL BE DELAYED FOR APPROXIMATELY FIVE MINUTES",
+        "ExternalPID": "METRO",
+        "AnnouncementFiles": ["CHIME2", "10008"]
+      },
+      "ServiceChange": {
+        "InternalPID": "*** THIS SERVICE HAS CHANGED - PLEASE LISTEN FOR ANNOUNCEMENTS ***",
+        "ExternalPID": "METRO",
+        "AnnouncementFiles": ["10009"]
+      },
+      "Special": {
+        "InternalPID": "SPECIAL",
+        "ExternalPID": "SPECIAL",
+        "AnnouncementFiles": [""]
+      },
+      "TechTerminate": {
+        "InternalPID": "DUE TO A TECHNICAL FAULT THIS TRAIN WILL TERMINATE AT THE NEXT STATION",
+        "ExternalPID": "NOT TAKING PASSENGERS",
+        "AnnouncementFiles": ["CHIME1", "10011"]
+      },
+      "Transposal": {
+        "InternalPID": "THIS TRAIN WILL BECOME A DIFFERENT SERVICE. PLEASE CHANGE AT FLINDERS STREET",
+        "ExternalPID": "METRO",
+        "AnnouncementFiles": ["CHIME2", "10012"]
+      },
+      "WorksTerminate": {
+        "InternalPID": "DUE TO IMPROVEMENT WORKS, THIS TRAIN IS TERMINATING. REPLACEMENT SERVICES HAVE BEEN ARRANGED",
+        "ExternalPID": "END OF SERVICE",
+        "AnnouncementFiles": ["CHIME1", "10013"]
+      }
+  }
+}
